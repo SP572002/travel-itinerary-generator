@@ -119,11 +119,3 @@ python wsgi.py
 
 **Itinerary Page**
 ![image-4](https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/9f91a253-7ab8-4211-9b58-0a843cc66f0e)
-
-
-## License
-
-This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
-=======
-# travel-itinerary-generator
->>>>>>> origin/main
